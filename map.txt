@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXX
+XXXXXXXXXXX     X
+XXXXXXXXXXXXXXX X
+XXXXXXXXXXX   X X
+XXXXXXXXXXXXX X X
+XXXXXXXXXXXXX X X
+XXXXXX        X X
+XXXXXXXXXXX X X X
+XXXXXXXXX   X      <= IN
+XXXXXXXXXXXXXXXXX
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  ▓ ▓     ▓     ▓
+▓ ▓ ▓ ▓ ▓   ▓▓▓ ▓
+▓     ▓ ▓▓    ▓ ▓
+▓▓ ▓▓▓▓       ▓ ▓
+▓  ▓ ▓▓ ▓ ▓▓▓ ▓ ▓
+▓▓ ▓ ▓▓▓▓▓▓   ▓ ▓
+▓       ▓   ▓            
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
